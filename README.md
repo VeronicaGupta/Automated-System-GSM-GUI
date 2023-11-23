@@ -8,7 +8,7 @@ The end product is an automated GUI, instructing the GSM module attached with th
 Technology used:
 
 1. Hardware-
-• SmartFeedback board – 7.2 version IoT gateway PCB board by GAIA
+• SmartFeedback board – 7.2 version IoT gateway PCB board by company
 • GSM Module - USB to GSM, direct connection to PC that acts as an intermediate between GUI and SmartFeedback v7.2 board
 • 4G / 2G Antennas – Attached to both GSM module and SmartFeedback v7.2 board
 • 4G / 2G SIM cards – Inserted in both GSM module and SmartFeedback v7.2 board SIM slots
