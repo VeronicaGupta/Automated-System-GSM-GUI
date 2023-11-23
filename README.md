@@ -13,6 +13,5 @@ Technology used:
 • 4G / 2G Antennas – Attached to both GSM module and SmartFeedback v7.2 board
 • 4G / 2G SIM cards – Inserted in both GSM module and SmartFeedback v7.2 board SIM slots
 2. Software-
-
 • Pycharm – PyQT5, Serial, Pandas Py libraries for developing app
 • Qt Designer – For designing the app
